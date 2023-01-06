@@ -1,7 +1,8 @@
 # Big-Data-Pratica-2
 Laboratório prático realizado em treinamento trabalhando com sete fontes diferentes de dados
 # Como o PIB e a Desigualdade Social influenciam no crescimento da Netflix?
-Objetivo desse laboratório prático é desenvolver uma web app de dashboard analítico usando sete fontes de dados diferentes
+Objetivo desse laboratório prático é desenvolver uma web app de dashboard analítico usando sete fontes de dados diferentes.
+
 O dataset title.basics.tsv.gz é acessado em https://datasets.imdbws.com/
 # Faturamento Netflix
 ![imagem1](https://user-images.githubusercontent.com/66141064/211033130-76fb3d9e-fbae-4ef5-9442-1af4ab0a91f7.png)
